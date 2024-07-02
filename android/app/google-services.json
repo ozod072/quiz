@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878740137009",
+    "project_id": "new-project-484bc",
+    "storage_bucket": "new-project-484bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878740137009:android:98a519cd6cb9bba3efe110",
+        "android_client_info": {
+          "package_name": "com.example.firebase_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7HSQQY3V7BxUr7IY8Tkv8f_PmOMkVec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878740137009:android:dcfa2c8e1632bb71efe110",
+        "android_client_info": {
+          "package_name": "com.example.firebase_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7HSQQY3V7BxUr7IY8Tkv8f_PmOMkVec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
